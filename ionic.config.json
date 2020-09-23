@@ -1,0 +1,7 @@
+{
+  "name": "NewsWeb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
